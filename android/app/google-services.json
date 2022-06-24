@@ -1,0 +1,95 @@
+{
+  "project_info": {
+    "project_number": "145918728097",
+    "firebase_url": "https://ss-shipnhanh.firebaseio.com",
+    "project_id": "ss-shipnhanh",
+    "storage_bucket": "ss-shipnhanh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145918728097:android:c4c1556e46f22abca0dde0",
+        "android_client_info": {
+          "package_name": "com.SS.shipnhanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145918728097-vaepf41phkivkd9qqiq4mh58746eqehg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "c2a4040fa5b1c32b6f7f7e1420bd9f3d7150e38f"
+          }
+        },
+        {
+          "client_id": "145918728097-rg7donilhcq3tnmgdrcsmqs97n3ove9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "23682ff39605e5bdc12526f1a6da3759c713b8b4"
+          }
+        },
+        {
+          "client_id": "145918728097-1mqrvf99mhdf4u47qn2756tjn46nrpts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "01c45251530fc8e57666af14d8ffa9d1fada6be6"
+          }
+        },
+        {
+          "client_id": "145918728097-dttlgqbu277icu9rgflr0b0csvjonqmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "cd46d6f7ac7f0b03d5a26f1b914802946245bd49"
+          }
+        },
+        {
+          "client_id": "145918728097-pc7g3jpqj8da4qt281h27s7p17mi6j4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "c30d292db60d1174a78c05fdc44855c38d112060"
+          }
+        },
+        {
+          "client_id": "145918728097-4memnpesh0anq37np5c8ouhpq23r8hqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SS.shipnhanh",
+            "certificate_hash": "63a5295ff358b00c70160027cd58acbaae8aeae3"
+          }
+        },
+        {
+          "client_id": "145918728097-19dun2eqkosoq4ar731qkc21renlhimh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0sYVG7KVp7Hd7LNX2gsp8AE0Nu80m9VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145918728097-19dun2eqkosoq4ar731qkc21renlhimh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145918728097-v8n1q3lv84gdgm5berejqfi57rio4gje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SS.shipnhanh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

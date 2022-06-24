@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="85" viewBox="0 0 85 85">
+  <defs>
+    <filter id="Rectangle_415" x="0" y="0" width="85" height="85" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_250" data-name="Group 250" transform="translate(-145 -743)">
+    <g transform="matrix(1, 0, 0, 1, 145, 743)" filter="url(#Rectangle_415)">
+      <rect id="Rectangle_415-2" data-name="Rectangle 415" width="55" height="55" rx="15" transform="translate(15 7)" fill="#ee542d"/>
+    </g>
+    <g id="Rectangle_416" data-name="Rectangle 416" transform="translate(173 763)" fill="none" stroke="#fff" stroke-width="2">
+      <rect width="30" height="30" rx="5" stroke="none"/>
+      <rect x="1" y="1" width="28" height="28" rx="4" fill="none"/>
+    </g>
+    <g id="ic-actions-add-simple" transform="translate(178 768)">
+      <rect id="Rectangle_24" data-name="Rectangle 24" width="20" height="20" fill="none"/>
+      <g id="Layer" transform="translate(2.458 2.458)">
+        <path id="Path_62" data-name="Path 62" d="M3,11.833A.833.833,0,0,1,3.75,11h13.5a.833.833,0,1,1,0,1.667H3.75A.833.833,0,0,1,3,11.833Z" transform="translate(-3 -4.333)" fill="#fff"/>
+        <path id="Path_63" data-name="Path 63" d="M11.833,3a.833.833,0,0,1,.833.75v13.5a.833.833,0,1,1-1.667,0V3.75A.833.833,0,0,1,11.833,3Z" transform="translate(-4.333 -3)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.975" height="13.475" viewBox="0 0 13.975 13.475">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="13.975" height="13.475" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Component_1" data-name="Component 1" clip-path="url(#clip-path)">
+    <g id="Ellipse_14" data-name="Ellipse 14" fill="none" stroke="#212121" stroke-width="2">
+      <circle cx="6.087" cy="6.087" r="6.087" stroke="none"/>
+      <circle cx="6.087" cy="6.087" r="5.087" fill="none"/>
+    </g>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="5" height="2" rx="0.5" transform="translate(10.439 8.525) rotate(45)" fill="#212121"/>
+  </g>
+</svg>

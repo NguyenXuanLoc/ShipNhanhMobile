@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "ShipNhanh Đông Triều",
+    "PhoneNumber": "0336138883",
+    "Email": "shipandbuy19@gmail.com",
+    "Description": null,
+    "PictureUrl": "https://smartshipapp.com/api/account/image/55635",
+    "Code": "shipnhanhdt",
+    "AllowCalcShipFeeDistance": true,
+    "BaseDistance": 3.00,
+    "BaseShipFee": 10000.00,
+    "ExtraShipFee": 3500.00,
+    "IsRealAmount": false,
+    "AppKey": "qGhMpErkWFF4SpOCqs8u3Q%3D%3D",
+    "TermsAndConditions": "https://smartshipapp.com/smart-ship/dieu-khoan",
+    "Instruction": "https://smartshipapp.com/smart-ship/huong-dan"
+  },
+  {
+    "Name": "ShipNhanh Móng Cái",
+    "PhoneNumber": "0376558386",
+    "Email": "thungoc.le98@gmail.com",
+    "Description": null,
+    "PictureUrl": "https://smartshipapp.com/api/account/image/56160",
+    "Code": "shipnhanhmc",
+    "AllowCalcShipFeeDistance": true,
+    "BaseDistance": 2.20,
+    "BaseShipFee": 10000.00,
+    "ExtraShipFee": 5000.00,
+    "IsRealAmount": false,
+    "AppKey": "qGhMpErkWFEtkNd5fPaj2g%3D%3D",
+    "TermsAndConditions": "https://smartshipapp.com/smart-ship/dieu-khoan",
+    "Instruction": "https://smartshipapp.com/smart-ship/huong-dan"
+  },
+  {
+    "Name": "ShipNhanh Uông Bí",
+    "PhoneNumber": "0866672638",
+    "Email": "Shipnhanhuongbi01@gmail.com",
+    "Description": null,
+    "PictureUrl": "https://smartshipapp.com/api/account/image/59011",
+    "Code": "shipnhanhub",
+    "AllowCalcShipFeeDistance": true,
+    "BaseDistance": 3.00,
+    "BaseShipFee": 10000.00,
+    "ExtraShipFee": 3500.00,
+    "IsRealAmount": false,
+    "AppKey": "qGhMpErkWFFJcL5IJ1cQtw%3D%3D",
+    "TermsAndConditions": "https://smartshipapp.com/smart-ship/dieu-khoan",
+    "Instruction": "https://smartshipapp.com/smart-ship/huong-dan"
+  }
+]
